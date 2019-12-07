@@ -112,3 +112,4 @@
 </dependency>
 这是第四个功能
 这是第五个功能
+i am chinese
