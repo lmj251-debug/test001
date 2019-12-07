@@ -101,3 +101,12 @@
     </hashTree>
   </hashTree>
 </jmeterTestPlan>
+<dependency>
+<groupId>com.rabbitmq</groupId>
+<artifactId>amqp-client</artifactId>
+<version>4.0.3</version><!--此版本与spring boot 1.5.9版本匹配-->
+</dependency>
+<dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-logging</artifactId>
+</dependency>
